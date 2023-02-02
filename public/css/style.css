@@ -39,7 +39,7 @@ header input {
     max-width: 200px;
 }
 nav {
-    background: var(--main);
+    background-image: linear-gradient(var(--main), rgb(58, 94, 252));
     color: var(--darkbg);
     padding: 15px 0;
 }
