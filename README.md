@@ -1,4 +1,4 @@
-# Pet
+# PetDevShop
 
 Um projeto de "canil" com finalidade de utilizar tecnologias como NodeJS (Express), TypeScript, etc.
 
