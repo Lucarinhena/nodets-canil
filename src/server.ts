@@ -8,6 +8,7 @@ dotenv.config();
 const port = 3000
 const server = express();
 
+
 server.set("view engine", "mustache");
 server.set("views", path.join(__dirname, "views"));
 server.engine("mustache", mustache());
